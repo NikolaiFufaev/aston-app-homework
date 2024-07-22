@@ -16,4 +16,5 @@ public class AstonAppHomeworkApplication extends SpringBootServletInitializer {
 		SpringApplication.run(AstonAppHomeworkApplication.class, args);
 	}
 
+
 }
