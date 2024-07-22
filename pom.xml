@@ -48,7 +48,7 @@
     </dependencies>
 
     <build>
-        <finalName>homework</finalName>
+        <finalName>aston-app-homework</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
