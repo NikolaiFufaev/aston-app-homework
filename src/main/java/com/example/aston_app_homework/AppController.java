@@ -11,6 +11,7 @@ public class AppController {
     @GetMapping
     public String hello() {
         return "Hello world ";
+
     }
 
 }
