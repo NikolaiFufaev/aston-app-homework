@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="558bbb17-e71e-428e-b174-b6308b560fac" name="Changes" comment="update1" />
+    <list default="true" id="558bbb17-e71e-428e-b174-b6308b560fac" name="Changes" comment="update1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/homework/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/homework/HelloServlet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,29 +66,6 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringDataWarApplication">
-    <configuration name="AstonAppHomework" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="aston-app-homework" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="AstonAppHomework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringBootWebJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="aston-app-homework" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.leodev.examples.springboot.springbootwebjsp.SpringBootWebJspApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringDataWarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="aston-app-homework" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="SpringDataWarApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721683679588</updated>
       <workItem from="1721683682334" duration="2517000" />
-      <workItem from="1721730346158" duration="2020000" />
+      <workItem from="1721730346158" duration="2773000" />
     </task>
     <task id="LOCAL-00001" summary="update1">
       <created>1721731807823</created>
@@ -111,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721732371308</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update1">
+      <created>1721732541071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721732541071</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update1">
+      <created>1721732941455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721732941455</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
